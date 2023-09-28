@@ -11,7 +11,7 @@ Create code that matters! 🤩
 Level up your coding skills by building real-world projects with professional designs.
 
 ## Project brief
-
+ll
 Unfold the dynamic universe of **GifTok**, a platform designed for boundless GIF exploration. Transitioning gracefully between mobile and desktop layouts, GifTok offers an uninterrupted flow of visual narratives, taking users on a captivating journey through the best of what the GIF world has to offer.
 
 ### What you will learn
